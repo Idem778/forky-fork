@@ -7,10 +7,10 @@
   - type: Projectile
     damage:
       types:
-        Piercing: 120
+        Piercing: 120 # Changed from wizden 75  > Funky 120
         Structural: 226
     penetrationThreshold: 360
     penetrationDamageTypeRequirement:
     - Structural
   - type: StaminaDamageOnCollide
-    damage: 80
+    damage: 80 # Changed from wizden 60 > Funky 80
