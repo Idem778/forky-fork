@@ -195,14 +195,12 @@
       shader: unshaded
 
 - type: entity
+- parent: ClothingBackpackSatchelHolding
   id: ClothingBackpackSatchelAdmin
   name: satchel of administration
   suffix: Admin
   description: If you are somehow seeing this, no you're not.
   components:
-  - type: Sprite
-    sprite: Mobs/Animals/bee.rsi/meta.json
-    state: icon
   - type: ExplosionResistance
     damageCoefficient: 0
   - type: Storage
