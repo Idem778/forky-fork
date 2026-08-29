@@ -39,3 +39,9 @@ lobby-state-background-reclaimernuke-artist = GetOutMarutak
 
 lobby-state-background-stationisafuck-title = Station Is a Fuck
 lobby-state-background-stationisafuck-artist = fuzyfries
+
+lobby-state-background-cultofstation-title = Cult of the Station
+lobby-state-background-cultofstation-artist = Gostir
+
+lobby-state-background-evilaghosts-title = Evil Admins
+lobby-state-background-evilaghosts-artist = Gostir
