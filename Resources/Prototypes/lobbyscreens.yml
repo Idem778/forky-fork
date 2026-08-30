@@ -94,10 +94,4 @@
   background: /Textures/_Funkystation/LobbyScreens/evilaghosts.webp
   title: lobby-state-background-evilaghosts-title
   artist: lobby-state-background-evilaghosts-artist
-
-- type: lobbyBackground
-  id: Fiestaparty
-  background: /Textures/_Funkystation/LobbyScreens/fiestaparty.webp
-  title: lobby-state-background-fiestaparty-title
-  artist: lobby-state-background-fiestaparty-artist
 # Funky changes end here
