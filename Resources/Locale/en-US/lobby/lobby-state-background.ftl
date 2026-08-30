@@ -45,3 +45,6 @@ lobby-state-background-cultofstation-artist = Gostir
 
 lobby-state-background-evilaghosts-title = Evil Admins
 lobby-state-background-evilaghosts-artist = Gostir
+
+lobby-state-background-fiestaparty-title = Fiesta
+lobby-state-background-fiestaparty-artist = Gostir
