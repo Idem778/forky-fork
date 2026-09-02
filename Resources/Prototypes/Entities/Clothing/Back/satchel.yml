@@ -203,7 +203,7 @@
   components:
   # Funky changes start here
   - type: Sprite
-    sprite: Mobs/Animals/bee.rsi/meta.json
+    sprite: Mobs/Animals/bee.rsi
     state: icon
     # Funky changes end here
   - type: ExplosionResistance
