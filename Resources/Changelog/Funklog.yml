@@ -644,4 +644,11 @@
   id: 74
   time: '2026-09-10T15:35:33Z'
   url: https://github.com/funky-station/forky-station/pull/453
+- author: AraiMaia
+  changes:
+  - message: New sprites and names for the various cigarette packets and cartons.
+    type: Add
+  id: 75
+  time: '2026-09-10T17:37:33Z'
+  url: https://github.com/funky-station/forky-station/pull/450
 Order: -1
