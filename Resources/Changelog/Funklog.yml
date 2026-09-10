@@ -637,4 +637,11 @@
   id: 73
   time: '2026-09-10T09:55:07Z'
   url: https://github.com/funky-station/forky-station/pull/342
+- author: Joaco545
+  changes:
+  - message: Added the new sentencing guidelines
+    type: Add
+  id: 74
+  time: '2026-09-10T15:35:33Z'
+  url: https://github.com/funky-station/forky-station/pull/453
 Order: -1
