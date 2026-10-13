@@ -503,7 +503,7 @@
 - type: entity
   parent: BaseXenoArtifactTrigger
   id: TriggerAttackStaminaDamage
-  name: Organic exhaustion
+  name: Application of suppressive violence
   components:
   - type: XATStaminaDamageThresholdReached
     damageNeeded: 8 # half a practice disabler capacity
