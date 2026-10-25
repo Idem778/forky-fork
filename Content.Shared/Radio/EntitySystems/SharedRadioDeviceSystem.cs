@@ -414,7 +414,7 @@ public abstract partial class SharedRadioDeviceSystem : EntitySystem
                     var proto = ProtoMan.Index(channel);
                     // visually mimicking intercoms / encryption key holders
                     args.PushMarkup(Loc.GetString("handheld-radio-component-freq",
-                        ("color", proto.Color),
+                        ("protoID", proto.ID), // add radio channel tags to allow color customization by the player
                         ("id", proto.LocalizedName),
                         ("freq", proto.Frequency)));
                 }
@@ -424,7 +424,7 @@ public abstract partial class SharedRadioDeviceSystem : EntitySystem
             {
                 var proto = ProtoMan.Index(ent.Comp.Channels.FirstOrDefault());
                 args.PushMarkup(Loc.GetString("handheld-radio-component-speaker-freq",
-                    ("color", proto.Color),
+                    ("protoID", proto.ID), // add radio channel tags to allow color customization by the player
                     ("id", proto.LocalizedName),
                     ("freq", proto.Frequency)));
             }
@@ -455,7 +455,7 @@ public abstract partial class SharedRadioDeviceSystem : EntitySystem
                 ("micState", state),
                 ("color", color)));
             args.PushMarkup(Loc.GetString("handheld-radio-component-mic-freq-examine",
-                ("color", proto.Color),
+                ("protoID", proto.ID), // add radio channel tags to allow color customization by the player
                 ("id", proto.LocalizedName),
                 ("freq", proto.Frequency)));
         }
