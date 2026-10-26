@@ -195,7 +195,7 @@
       shader: unshaded
 
 - type: entity 
-# Funky commented out: "parent: ClothingBackpackSatchelHolding"
+  parent: ClothingBackpackSatchelHolding
   id: ClothingBackpackSatchelAdmin
   name: satchel of administration
   suffix: Admin
