@@ -204,6 +204,9 @@
   # Funky changes start here
   - type: Sprite
     sprite: null
+    state: null
+    layers:
+    - state: null
     # Funky changes end here
   - type: ExplosionResistance
     damageCoefficient: 0
