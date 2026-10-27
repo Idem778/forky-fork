@@ -194,7 +194,7 @@
     - state: icon-unshaded
       shader: unshaded
 
-- type: entity 
+- type: entity
   parent: ClothingBackpackSatchelHolding
   id: ClothingBackpackSatchelAdmin
   name: satchel of administration
@@ -203,10 +203,7 @@
   components:
   # Funky changes start here
   - type: Sprite
-    sprite: null
-    state: null
-    layers:
-    - state: null
+    sprite: _Funkystation/Clothing/Back/Satchels/adminsatchel.rsi
     # Funky changes end here
   - type: ExplosionResistance
     damageCoefficient: 0
