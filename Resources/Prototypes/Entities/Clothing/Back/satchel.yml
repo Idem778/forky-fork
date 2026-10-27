@@ -203,8 +203,7 @@
   components:
   # Funky changes start here
   - type: Sprite
-    sprite: Mobs/Animals/bee.rsi
-    state: icon
+    sprite: null
     # Funky changes end here
   - type: ExplosionResistance
     damageCoefficient: 0
